@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EHPractice"
+    }
+  },
+  "defaultProject": "EHPractice",
+  "cli": {
+    "analytics": "705e580f-2c4d-472e-87fe-5dc736f68ca0"
+  }
 }
